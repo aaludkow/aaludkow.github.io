@@ -1,7 +1,7 @@
 ---
 title: "Home Page"
 about:
-  template: marquee
+  template: broadside
   image: images/HIDRMCSHANE.jpg
   links:
     - icon: buildings
