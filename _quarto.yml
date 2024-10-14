@@ -5,6 +5,9 @@ project:
 website:
   title: "My Personal Website for STAT 37815"
   navbar:
+    tools:
+      - icon: github
+      - href: https://github.com/aaludkow/aaludkow.github.io
     left:
       - href: index.qmd
         text: Home
@@ -13,5 +16,6 @@ website:
 format:
   html:
     theme: solar
+    mainfont: "'Shantell Sans', sans-serif"
     # css: my-style.css
     # toc: true
