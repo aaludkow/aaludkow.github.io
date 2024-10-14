@@ -3,7 +3,7 @@
     "path": "~/UChicago/Spring 2024/R Programming/aaludkow.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1921373222",
+    "hash": "2127268",
     "contents": "",
     "dirty": false,
     "created": 1728931302815.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,3",
+        "cursorPosition": "3,19",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1728931346,
+    "lastKnownWriteTime": 1728932507,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1728931346206,
+    "last_content_update": 1728932507096,
     "read_only": false,
     "read_only_alternatives": []
 }
